@@ -1,6 +1,6 @@
 # Resumos Git e GitHub
 
-Repositório para armazenar apenas códigos sobre Git e GitHub. Contém informações do curso de Versionamento de Código com Git e GitHub da [Digital Innovation One.](https://web.dio.me/)
+Repositório para armazenar apenas informações de códigos úteis ao dia a dia sobre Git e GitHub e passo a passo de procedimento. Contém informações do curso de Versionamento de Código com Git e GitHub da [Digital Innovation One.](https://web.dio.me/)
 
 ## 📚 Documentação
 
