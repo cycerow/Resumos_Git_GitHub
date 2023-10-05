@@ -13,7 +13,7 @@ Repositório para armazenar apenas informações de códigos úteis ao dia a dia
 | **Conteúdos** | **Resumos** |
 |-------|---------|
 | Introdução | [Material]() |
-| Comandos Úteis | [Material]()|
+| Comandos Úteis | [Material](COMANDO.md)|
 | Criando e Clonando Repositórios | [Material]() | 
 | Desfazendo Alterações no Repositório Local | [Material]() |
 | Enviando e Baixando Alterações no Repositório Local | [Material]() |
