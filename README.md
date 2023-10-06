@@ -14,7 +14,7 @@ Repositório para armazenar apenas informações de códigos úteis ao dia a dia
 |-------|---------|
 | Introdução | [Ver Material](MATERIAL.md) |
 | Comandos Úteis | [Ver Material](MATERIAL.md)|
-| Criando e Clonando Repositórios | Ver Material](MATERIAL.md) | 
-| Desfazendo Alterações no Repositório Local | Ver Material](MATERIAL.md)|
-| Enviando e Baixando Alterações no Repositório Local | Ver Material](MATERIAL.md) |
-| Trabalhando com Branchs | Ver Material](MATERIAL.md) |
+| Criando e Clonando Repositórios | [Ver Material](MATERIAL.md)| 
+| Desfazendo Alterações no Repositório Local | [Ver Material](MATERIAL.md)|
+| Enviando e Baixando Alterações no Repositório Local | [Ver Material](MATERIAL.md) |
+| Trabalhando com Branchs | [Ver Material](MATERIAL.md) |
