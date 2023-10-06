@@ -12,9 +12,9 @@ Repositório para armazenar apenas informações de códigos úteis ao dia a dia
 ## 💻 Resumos
 | **Conteúdos** | **Resumos** |
 |-------|---------|
-| Introdução | [Material]() |
-| Comandos Úteis | [Material](COMANDO.md)|
-| Criando e Clonando Repositórios | [Material]() | 
-| Desfazendo Alterações no Repositório Local | [Material]() |
-| Enviando e Baixando Alterações no Repositório Local | [Material]() |
-| Trabalhando com Branchs | [Material]() |
+| Introdução | [Ver Material](MATERIAL.md) |
+| Comandos Úteis | [Ver Material](MATERIAL.md)|
+| Criando e Clonando Repositórios | Ver Material](MATERIAL.md) | 
+| Desfazendo Alterações no Repositório Local | Ver Material](MATERIAL.md)|
+| Enviando e Baixando Alterações no Repositório Local | Ver Material](MATERIAL.md) |
+| Trabalhando com Branchs | Ver Material](MATERIAL.md) |
